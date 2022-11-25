@@ -1,1 +1,3 @@
-%s\n fire no_fire start_fire
+fire
+no_fire
+start_fire
