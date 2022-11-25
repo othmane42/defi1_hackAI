@@ -1,3 +1,7 @@
 *.h5
 *.tar
-bases*/
+base*/
+*.zip
+archive*/
+*data*/
+
